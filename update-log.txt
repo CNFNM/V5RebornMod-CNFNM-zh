@@ -1,0 +1,9 @@
+(2024.7.28)v1.3-CNFNM-zh:
+增加了更新日志.(Updated this log.)
+(2024.7.26)(未发布版本 non-updated version)v1.25--CNFNM:
+1. 根除者增加了熔化以及穿透功能,装甲提升至60,弱化伤害至120.(Eradicator's armor increased to 60, damage decreased to 120 per shoot, added the pierce and melting status.)
+2. 将所有玩家机甲移除重构厂.(Move the player mech out from the V5 refabrictor.)
+3. 添加了部分单位全视图.(Added some units full preview, Picture.)
+4. Fixed some bugs.
+(2024.7.22~2024.7.25)v1.2-CNFNM-zh:
+1. 修复了大部分机甲原来的功能(Fixed the most of the meches' original uses.)
